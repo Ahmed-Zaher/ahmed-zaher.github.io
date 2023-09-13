@@ -10,4 +10,4 @@ My research is funded by the Hong Kong PhD Fellowship Scheme.
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+
