@@ -2,7 +2,7 @@ main:
 
   - title: Exploiting the Sparseness of Control-flow and Call Graphs for Efficient and On-demand Algebraic Program Analysis
     authors: G.K. Conrado, A.K. Goharshady, K. Kochekov, Y.C. Tsai, A.K. Zaher
-    conference_short: OOPSLA
+    #conference_short: OOPSLA
     conference: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications, <strong>(OOPSLA)</strong>, 2023.
     pdf: https://hal.science/hal-04194535/document
     #code: https://github.com/MrGiovanni/ContinualLearning
