@@ -3,7 +3,7 @@ main:
   - title: Exploiting the Sparseness of Control-flow and Call Graphs for Efficient and On-demand Algebraic Program Analysis
     authors: G.K. Conrado, A.K. Goharshady, K. Kochekov, Y.C. Tsai, A.K. Zaher
     #conference_short: OOPSLA
-    conference: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications, <strong>(OOPSLA)</strong>, 2023.
+    conference: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications, <strong>OOPSLA 2023.</strong>
     pdf: https://hal.science/hal-04194535/document
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -13,7 +13,7 @@ main:
   - title: "Efficient Interprocedural Data-Flow Analysis using Treedepth and Treewidth"
     authors: A.K. Goharshady, A.K. Zaher
     # conference_short: CVPR
-    conference: International Conference on Verification, Model Checking, and Abstract Interpretation, <strong>(VMCAI)</strong>, 2023.
+    conference: International Conference on Verification, Model Checking, and Abstract Interpretation, <strong>VMCAI 2023.</strong>
     pdf: https://hal.archives-ouvertes.fr/hal-03869253/document
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
