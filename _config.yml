@@ -1,5 +1,5 @@
 # Basic Information 
-title: "Ahmed K. Zaher\nاحمد خالد زاهر"
+title: "Ahmed K. Zaher\nأحمد خالد زاهر"
 position: Graduate student
 affiliation: HKUST
 email: akazaher@cse.ust.hk
@@ -36,6 +36,7 @@ favicon: ./assets/img/cool_alpaca_small.png
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
+arabic_font: "Amiri" # Specify the Arabic font family
 
 
 # Google Analytics ID
