@@ -11,6 +11,6 @@ My research is funded by the Hong Kong PhD Fellowship Scheme.
 {% include_relative _includes/publications.md %}
 
 
-<a href="https://en.wikipedia.org/wiki/Handala" target="_blank">
-  <img src="assets/img/Handala.gif" style="width: 200px; height: auto;" alt="Handala"/>
+<a href="https://en.wikipedia.org/wiki/Handala" target="_blank" style="float: right;">
+  <img src="assets/img/Handala.gif" style="width: 120px; height: auto;" alt="Handala"/>
 </a>
