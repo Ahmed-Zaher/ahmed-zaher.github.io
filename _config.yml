@@ -36,7 +36,7 @@ favicon: ./assets/img/cool_alpaca_small.png
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
-font_size: "25px"
+
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
