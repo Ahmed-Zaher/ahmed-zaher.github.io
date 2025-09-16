@@ -21,6 +21,6 @@ My research is funded by the Hong Kong PhD Fellowship Scheme.
 </a>
 
 
-<p style="text-align: left; font-size: 14px; color: gray;">
-  Last updated on: {{ site.time | date: "%A, %d %B %Y" }}
+<p style="text-align: left; font-size: 14px; color: gray; clear: both;">
+  Last updated on: {{ site.time | date: "%d %B %Y" }}
 </p>
