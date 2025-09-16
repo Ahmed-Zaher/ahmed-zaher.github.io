@@ -6,14 +6,12 @@ main:
     conference: <strong>OOPSLA 2023.</strong>
     pdf: https://hal.science/hal-04194535/document
     slides: /assets/files/oopsla23_slides.pdf
-
   - title: Parameterized Algorithms for Scalable Interprocedural Data-flow Analysis
     authors: A.K. Zaher
     #conference_short: OOPSLA
     conference: <strong>Master's thesis.</strong>
     pdf: https://arxiv.org/pdf/2309.11298.pdf
     slides: /assets/files/mphil_slides.pdf
-    
   - title: "Efficient Interprocedural Data-Flow Analysis using Treedepth and Treewidth"
     authors: A.K. Goharshady, A.K. Zaher
     # conference_short: CVPR
