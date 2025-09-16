@@ -6,7 +6,7 @@
 {% for link in site.data.publications.main %}
 
 <li>
-<div class="pub-row style="margin-bottom: 5px; padding-top: 5px;">
+<div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 0px;padding-left: 0px;">
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
