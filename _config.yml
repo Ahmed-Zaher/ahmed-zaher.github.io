@@ -3,7 +3,7 @@
 name_en: "Ahmed K. Zaher"
 name_ar: "أحمد خالد زاهر"
 name_zh: "阿荷默德"
-title: "Ahmed K. Zaher<br>أحمد خالد زاهر<br>阿荷默德"
+title: "Ahmed K. Zaher<span style='display:block; height:0.3em;'></span>أحمد خالد زاهر<span style='display:block; height:0.3em;'></span>阿荷默德"
 position: Graduate student
 affiliation: HKUST
 email: akazaher@cse.ust.hk
